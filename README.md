@@ -1,5 +1,5 @@
 # Percolation
-Percolation Assignment in School
+Percolation Assignment in School. This was a pair project in my Data Structures and Algorithms class.
 This was a school assignment titled Percolation. The idea is that there is a grid of size n*n. 
 We imagine that there is water above the top row that will sink down as the squares of the grid 
 open up. It percolates/percolation is met when the water above the top row makes it all the way 
